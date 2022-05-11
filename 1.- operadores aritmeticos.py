@@ -1,5 +1,5 @@
 print("suma")
-print(2 + 3     )
+print(2 + 3 )
 
 print("resta")
 print(5 - 3)
